@@ -1,4 +1,4 @@
-# 🦫 Aprendendo Golang
+#  Aprendendo Golang
 
 Olá! 👋  
 Este repositório foi criado para registrar meu progresso enquanto **aprendo Golang**, a linguagem desenvolvida pelo Google.  
