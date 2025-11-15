@@ -2,7 +2,7 @@ package main // necessariario para importar o modulo utils, main = principal
 //teste
 import ( // imports de modulos necessários
 
-	"GOLANG/utils" //usei o go mod init GOLANG para criar o modulo raiz
+	"aprendendo_golang/utils" //usei o go mod init GOLANG para criar o modulo raiz
 	"fmt"
 	"math"
 )

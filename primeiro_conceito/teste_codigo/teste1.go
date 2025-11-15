@@ -1,8 +1,8 @@
-package teste_codigo
+package apd1
 
 import (
-	"GOLANG/utils"
-	"GOLANG/calc"
+	"aprendendo_golang/utils" //usei o go mod init GOLANG para criar o modulo raiz/utils"
+	"aprendendo_golang/primeiro_conceito/calc"
 	"fmt"
 )
 
