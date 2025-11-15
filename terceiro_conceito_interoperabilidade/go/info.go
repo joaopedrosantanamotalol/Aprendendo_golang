@@ -17,5 +17,4 @@ func InfoInteroperabilidade()  {
 	p := Pessoa{"Paulo", 32, "123.456.789-00"}
 	data, _ := json.Marshal(p)
 	fmt.Print(string(data))
-
 }
