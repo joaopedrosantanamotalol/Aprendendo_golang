@@ -16,3 +16,8 @@ A ideia é praticar e entender os principais conceitos da linguagem, como:
 
 ---
 ✨ *Aprendendo um pouco mais a cada compilação!*
+
+
+## Tutorial Básico de Conceitos (em desenvolvimento, feito por mim)
+
+📄 [Baixar o tutorial em PDF](estudo/Tutorial_Golang_Com_Certificado_Sublinhado.pdf)
